@@ -1,0 +1,22 @@
+{
+  "get_even_keys": {
+    "name": "Clés paires d'un dictionnaire",
+    "points": 1
+  },
+  "join_dictionaries": {
+    "name": "Concaténation de dictionnaires",
+    "points": 1
+  },
+  "dictionnary_from_lists": {
+    "name": "Dictionnaire à partir de listes",
+    "points": 1
+  },
+  "get_greatest_values": {
+    "name": "Plus grandes valeurs d'un dictionnaire",
+    "points": 1
+  },
+  "get_sum_values_from_key": {
+    "name": "Somme des valeurs dans une liste de dictionnaires",
+    "points": 1
+  }
+}
